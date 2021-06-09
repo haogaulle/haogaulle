@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haogaulle
-- 👀 I’s nice to meet you here!
+- 👀 It’s nice to meet you here!
 
 <!---
 haogaulle/haogaulle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
